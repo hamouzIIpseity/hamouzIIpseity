@@ -43,8 +43,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,git,r,gcp,idea,java,linux,eclipse,cassandra,postgresql" />
-    <img src="https://skillicons.dev/icons?i=python,mongodb,anaconda,java,mysql,powershell,pytorch,sklearn,tensorflow,unity,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,r,gcp,idea,java,linux,eclipse,cassandra" />
+    <img src="https://skillicons.dev/icons?i=python,mongodb,anaconda,mysql,powershell,pytorch,sklearn,tensorflow,unity,vscode,postgresql" /><br>
 </div>
 
 <br/>

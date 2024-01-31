@@ -6,19 +6,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza+Belhadj!;" />
 </h1>
 
-<h3 align="center">An aspiring Data Scientist from francea 🇨🇦</h3>
+<h3 align="center">An up-and-coming Data Maestro, navigating the intricate realm of data exploration with finesse.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Customer personality analysis project**
+ 🔭  Currently immersed in crafting insights through a **Customer Personality Analysis Project**
  
- 🌱 I’m currently learning **Power BI** and **machine learning**
+ 🌱 Exploring the magic of **Power BI** and delving into the captivating world of **machine learning** mysteries
 
-💬  Ask me about **python, machine learning algorithm** or anything [here](https://github.com/hamouzIIpseity)**
+💬  Inquisitive minds, feel free to spark a conversation about **python, machine learning algorithm**, or anything [here](https://github.com/hamouzIIpseity)
 
-⚡ Fun fact **Calisthenics is the best sport**
+⚡ Fun fact: **Calisthenics**, the art of body movement, holds the crown as the best sport in my world
 
  </div>
  
@@ -55,7 +55,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hamouzIIpseity/hamouzIIpseity/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>

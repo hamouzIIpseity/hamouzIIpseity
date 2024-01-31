@@ -16,7 +16,7 @@
  
  🌱 Exploring the magic of **Power BI** and delving into the captivating world of **machine learning** mysteries
 
-💬  Inquisitive minds, feel free to spark a conversation about **python, machine learning algorithm**, or anything [here](https://github.com/hamouzIIpseity)
+💬  Inquisitive minds, feel free to spark a conversation about **python, machine learning algorithm**, or anything [here](https://github.com/hamouzIIpseity?tab=repositories)
 
 ⚡ Fun fact: **Calisthenics**, the art of body movement, holds the crown as the best sport in my world
 

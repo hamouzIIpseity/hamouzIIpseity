@@ -1,35 +1,75 @@
 [![MasterHead](https://camo.githubusercontent.com/91c7a43399e63e18b0bda809b2ac203d159b06b07c91ac1f9b1cadbc38998504/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://hamouzIIpseity.io)
-<h1 align="center">Hi 👋, I'm Hamza Belhadj</h1>
-<h3 align="center">An aspiring Data Scientist from france</h3>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hamouziipseity&label=Profile%20views&color=0e75b6&style=flat" alt="hamouzIIpseity" /> </p>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza+Belhadj!;" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamouziipseity&label=Profile%20views&color=0e75b6&style=flat" alt="hamouziipseity" /> </p>
+<h3 align="center">An aspiring Data Scientist from francea 🇨🇦</h3>
 
-- 🔭 I’m currently working on [Customer personality analysis project](https://github.com/hamouzIIpseity/Customer_analysis)
+<br/>
 
-- 🌱 I’m currently learning **Power BI** and **machine learning**
+<div align="center">
+ 
+ 🔭 I’m currently working on **Customer personality analysis project**
+ 
+ 🌱 I’m currently learning **Power BI** and **machine learning**
 
-- 👨‍💻 All of my projects are available at [link to come](link to come)
+💬  Ask me about **python, machine learning algorithm** or anything [here](https://github.com/hamouzIIpseity)**
 
-- 💬 Ask me about **python, machine learning algorithm**
+⚡ Fun fact **Calisthenics is the best sport**
 
-- 📫 How to reach me **hamzabelea2000@gmail.com**
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:hamzabelea2000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamza-belhadj-731502278" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+   </a>
+  <a href="https://drive.google.com/file/d/1fWkP0Q_Jh7FOgzPYn4dF4AVXhUTAzm9o/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/CV-003B57?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fWkP0Q_Jh7FOgzPYn4dF4AVXhUTAzm9o/view?usp=sharing](https://drive.google.com/file/d/1fWkP0Q_Jh7FOgzPYn4dF4AVXhUTAzm9o/view?usp=sharing)
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,figma,tailwind,git,r,gcp,idea,java,linux,eclipse," />
+    <img src="https://skillicons.dev/icons?i=python,mongodb,anaconda,java,mysql,powershell,pytorch,sklearn,tensorflow,unity,vscode,postgresql,cassandra" /><br>
+</div>
 
-- ⚡ Fun fact **Calisthenics is the best sport**
+<br/>
+<hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hamza belhadj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza belhadj" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamouziipseity&show_icons=true&locale=en&layout=compact" alt="hamouziipseity" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hamouzIIpseity&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=hamouzIIpseity&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hamouzIIpseity&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamouziipseity&show_icons=true&locale=en" alt="hamouziipseity" /></p>
+<br/><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamouziipseity&" alt="hamouziipseity" /></p>
+<hr/>
+
